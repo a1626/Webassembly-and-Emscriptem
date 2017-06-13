@@ -1,4 +1,10 @@
+## Intro
+
+This project covers example code for webassembly. Only `counter.c`, `helloWorld.c` and `index.html`(a wasm loader) have been hand written and rest of the files have been genrated using emscripten.
+
 ## References
+
+__webassembly__: http://webassembly.org/
 
 __Emscripten__: https://kripken.github.io/emscripten-site/docs/introducing_emscripten/index.html
 
